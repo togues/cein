@@ -20,7 +20,15 @@
 		'view/tipo_delitos_view.xml',
 		'view/tipo_departamentos_view.xml',
 		'view/tipo_municipios_view.xml',
-		'data/denuncia_sequence.xml'
+		'security/res_groups.xml',
+######################### SECUENCIAS #########################
+		'data/denuncia_sequence.xml',
+######################### DATA DEMO #########################
+		'data/departamento_data.xml',
+		'data/municipio_data.xml',
+		'data/escolaridad_data.xml',
+		'data/ocupacion_data.xml'
+
 		],
 	'installable': True,	
 } 	 	 	

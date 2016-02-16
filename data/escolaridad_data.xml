@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<openerp>
+    <data noupdate="1">
+<record model="cein.escolaridad"  id="1"> <field name="name">Ninguno</field><field name="codlegado">1</field><field name="displayname">Ninguno</field></record>
+<record model="cein.escolaridad"  id="2"> <field name="name">Primaria Incompleta</field><field name="codlegado">2</field><field name="displayname">Primaria Incompleta</field></record>
+<record model="cein.escolaridad"  id="3"> <field name="name">Primaria Completa</field><field name="codlegado">3</field><field name="displayname">Primaria Completa</field></record>
+<record model="cein.escolaridad"  id="4"> <field name="name">Secundaria Incompleta</field><field name="codlegado">4</field><field name="displayname">Secundaria Incompleta</field></record>
+<record model="cein.escolaridad"  id="5"> <field name="name">Secundaria Completa</field><field name="codlegado">5</field><field name="displayname">Secundaria Completa</field></record>
+<record model="cein.escolaridad"  id="6"> <field name="name">Universitaria Incompleta</field><field name="codlegado">6</field><field name="displayname">Universitaria Incompleta</field></record>
+<record model="cein.escolaridad"  id="7"> <field name="name">Universitaria Completa</field><field name="codlegado">7</field><field name="displayname">Universitaria Completa</field></record>
+<record model="cein.escolaridad"  id="8"> <field name="name">Tecnico</field><field name="codlegado">8</field><field name="displayname">Tecnico</field></record>
+<record model="cein.escolaridad"  id="9"> <field name="name">No Aplica</field><field name="codlegado">99</field><field name="displayname">No Aplica</field></record>
+ </data>
+</openerp>

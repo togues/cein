@@ -46,5 +46,3 @@ class  Delitos_implicados(models.Model):
 	_name = "cein.delitosimplicado"	
 	name_id = fields.Many2one('cein.hechos','Many2one obligado',help="obligado por one2many, no necesario aparezca en vista")
 	delitosimplicados = fields.Many2one('cein.tipo_delitos','Tipos de Delito')
-	
-	
