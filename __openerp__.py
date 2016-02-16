@@ -21,9 +21,10 @@
 		'view/tipo_departamentos_view.xml',
 		'view/tipo_municipios_view.xml',
 		'security/res_groups.xml',
+		'security/ir.model.access.csv',
 ######################### SECUENCIAS #########################
 		'data/denuncia_sequence.xml',
-######################### DATA DEMO #########################
+####################### DATA DEMO #########################
 		'data/departamento_data.xml',
 		'data/municipio_data.xml',
 		'data/escolaridad_data.xml',
