@@ -21,6 +21,7 @@
 		'view/tipo_departamentos_view.xml',
 		'view/tipo_municipios_view.xml',
 		'view/tipo_visita_view.xml',
+		'view/turno.xml',
 		'security/res_groups.xml',
 		'security/ir.model.access.csv',
 ######################### SECUENCIAS #########################

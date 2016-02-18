@@ -1,3 +1,5 @@
+import visita
+import turno
 import tipo_denuncia
 import nacionalidad
 import escolaridad
@@ -12,5 +14,4 @@ import tipo_implicados
 import tipo_delitos
 import departamentos
 import municipios
-import visita
 
