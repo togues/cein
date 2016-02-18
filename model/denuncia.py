@@ -25,9 +25,6 @@ class Implicados(models.Model):
 	nombre = fields.Many2one('cein.persona','Relacion Persona')
 	relacion= fields.Many2one('cein.tipo_implicados','Implicación en la denuncia')
 	
-	
-	
-
 
 class Hechos(models.Model):
 	_name = "cein.hechos"	
