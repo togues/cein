@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<openerp>
+    <data noupdate="1">		
+		<record model="cein.ocupacion"  id="7"> <field name="name">Construccion</field><field name="codlegado">7</field><field name="displayname">Construccion</field></record>
+		<record model="cein.ocupacion"  id="8"> <field name="name">Directores, Gerentes y Administradores Generales</field><field name="codlegado">8</field><field name="displayname">Directores, Gerentes y Administradores Generales</field></record>
+		<record model="cein.ocupacion"  id="9"> <field name="name">Empleados de Oficina</field><field name="codlegado">9</field><field name="displayname">Empleados de Oficina</field></record>
+		<record model="cein.ocupacion"  id="10"> <field name="name">Manufacturas o maquilas</field><field name="codlegado">10</field><field name="displayname">Manufacturas o maquilas</field></record>
+		<record model="cein.ocupacion"  id="11"> <field name="name">Militares y Policias</field><field name="codlegado">11</field><field name="displayname">Militares y Policias</field></record>
+		<record model="cein.ocupacion"  id="12"> <field name="name">Operadores de Carga y Almacenaje</field><field name="codlegado">12</field><field name="displayname">Operadores de Carga y Almacenaje</field></record>
+		<record model="cein.ocupacion"  id="13"> <field name="name">Oficios domesticos</field><field name="codlegado">13</field><field name="displayname">Oficios domesticos</field></record>
+		<record model="cein.ocupacion"  id="14"> <field name="name">Profesionles y tecnicos</field><field name="codlegado">14</field><field name="displayname">Profesionles y tecnicos</field></record>
+		<record model="cein.ocupacion"  id="15"> <field name="name">Trabajadores de los servicios</field><field name="codlegado">15</field><field name="displayname">Trabajadores de los servicios</field></record>
+		<record model="cein.ocupacion"  id="16"> <field name="name">Otro</field><field name="codlegado">16</field><field name="displayname">Otro</field></record>
+		<record model="cein.ocupacion"  id="17"> <field name="name">No aplica</field><field name="codlegado">17</field><field name="displayname">No aplica</field></record>
+
+ </data>
+</openerp>

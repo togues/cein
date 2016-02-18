@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<openerp>
+    <data noupdate="1">
+		<record id="seq_denuncia_code" model="ir.sequence.type">
+			<field name="name">Codigo de denuncia</field>
+			<field name="code">CodDenuncia</field>
+		</record>
+		<record id="seq_denuncia" model="ir.sequence">
+			<field name="name">Codigo de denuncia</field>
+			<field name="code">CodDenuncia</field>
+			<field name="prefix">CodDen</field>
+			<field name="paddig">3</field>
+		</record>
+	</data>
+</openerp>

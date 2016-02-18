@@ -12,4 +12,5 @@ import tipo_implicados
 import tipo_delitos
 import departamentos
 import municipios
+import visita
 

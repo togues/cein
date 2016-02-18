@@ -9,8 +9,7 @@
 			<form string="raza Form">
 				<sheet>					
 					<group col="2">						
-						<field name="name" placeholder="Nombre " />		
-						<field name="displayname" placeholder="Nombre " />														
+						<field name="name" placeholder="Nombre " />														
 						<field name="activo" />											
 					</group>
 					<notebook>
@@ -28,9 +27,8 @@
 		<field name="name">raza.tree</field>
 		<field name="model">cein.raza</field>
 		<field name="arch" type="xml">
-				<tree string="Status Tree">
-							
-							<field name="displayname" />	
+				<tree string="Status Tree">	
+							<field name="name" />
 							<field name="descripcion" />
 				</tree>
 		</field>

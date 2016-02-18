@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record id="cein.group_recepcion" model="res.groups">
+            <field name="name">CEIN / Recepcion</field>
+        </record>
+        <record id="cein.group_coordinacion" model="res.groups">
+            <field name="name">CEIN / Coordinacion</field>
+        </record>
+        <record id="cein.group_forense" model="res.groups">
+            <field name="name">CEIN / Forense</field>
+        </record>
+        <record id="cein.group_investigacion" model="res.groups">
+            <field name="name">CEIN / Investigacion</field>
+        </record>
+        <record id="cein.group_fiscalia" model="res.groups">
+            <field name="name">CEIN / Fiscalia</field>
+        </record>
+        <record id="cein.group_estadistica" model="res.groups">
+            <field name="name">CEIN / Estadistica</field>
+        </record>
+        <record id="cein.group_recepcion_centro" model="res.groups">
+            <field name="name">CEIN / RecepciónCentro</field>
+        </record>
+        <record id="cein.group_insoculares" model="res.groups">
+            <field name="name">CEIN / InspeccionesOculares</field>
+        </record>
+        <record id="cein.group_administracion" model="res.groups">
+            <field name="name">CEIN / Administracion</field>
+        </record>
+    </data>
+</openerp>
